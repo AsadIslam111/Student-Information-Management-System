@@ -1,4 +1,4 @@
-<a href="https://ibb.co/N2cBvfG"><img src="https://i.ibb.co/v40nFfM/login.png" alt="login" border="0"></a>   
+<p align="center"> <a href="https://ibb.co/N2cBvfG"><img src="https://i.ibb.co/v40nFfM/login.png" alt="login" border="0"></a>   </p> 
 
 # Student-Information-Management-System
 This repo is about Student Database System in C language.  
